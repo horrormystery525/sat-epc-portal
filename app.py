@@ -13,7 +13,7 @@ from qrcode.image.styles.moduledrawers import RoundedModuleDrawer
 # Page Configuration
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="DocuSphere | SP & E.P.C. Interactive Portal",
+    page_title="DocuSphere | RMMK NextGen Solutions Interactive Portal",
     page_icon="📖",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -27,7 +27,7 @@ I18N = {
         "portal_badge": "● LIVE DIGITAL PORTAL",
         "zero_dl": "ZERO DOWNLOADS NEEDED",
         "all_38": "ALL 38 ILLUSTRATED PRODUCTS",
-        "title": "Er. SATYAM PIYUSH — An E.P.C. Company",
+        "title": "RMMK NextGen Solutions",
         "tagline": "Turnkey Engineering, Procurement & Construction | Clean Green India Solutions",
         "tab_summary": "📖 Executive Summary & Profile",
         "tab_catalog": "🚜 Illustrated Catalog (38 Items)",
@@ -45,7 +45,7 @@ I18N = {
         "kpi_standards_sub": "ISO 9001:2015 & NSIC",
         "kpi_phone": "Direct Helpline",
         "about_heading": "🏢 Enterprise Profile & Engineering Heritage",
-        "about_body": """**Er. SATYAM PIYUSH — An E.P.C. Company** delivers turnkey Engineering, Procurement, and Construction (EPC) solutions for civic and municipal bodies across India.
+        "about_body": """**RMMK NextGen Solutions** delivers turnkey Engineering, Procurement, and Construction (EPC) solutions for civic and municipal bodies across India.
 
 ##### 🌟 Executive Track Record & Industry Experience:
 - ✈️ **Flight Testing Instrumentation** at **Hindustan Aeronautics Limited (HAL India)** — High-precision aerospace systems & instrumentation.
@@ -58,7 +58,7 @@ I18N = {
         "all": "All",
         "reg_office": "Registered Office",
         "fab_base": "Fabrication & Workshop Base",
-        "phone": "Telephone",
+        "phone": "Telephone / Helpline",
         "email": "Email",
         "open_gmaps": "🗺️ Open in Google Maps"
     },
@@ -66,7 +66,7 @@ I18N = {
         "portal_badge": "● लाइव डिजिटल पोर्टल",
         "zero_dl": "बिना पीडीएफ डाउनलोड सीधा उपयोग",
         "all_38": "कुल 38 सचित्र उपकरण एवं मशीनें",
-        "title": "इंजी. सत्यम पीयूष — एक ई.पी.सी. कंपनी",
+        "title": "RMMK नेक्स्टजेन सॉल्यूशंस (RMMK NextGen Solutions)",
         "tagline": "टर्नकी इंजीनियरिंग, खरीद और निर्माण (EPC) | स्वच्छ भारत और हरित भारत समाधान",
         "tab_summary": "📖 मुख्य कार्यकारी सारांश एवं परिचय",
         "tab_catalog": "🚜 सचित्र मशीनरी कैटलॉग (38 उत्पाद)",
@@ -84,7 +84,7 @@ I18N = {
         "kpi_standards_sub": "ISO 9001:2015 एवं NSIC",
         "kpi_phone": "सीधी हेल्पलाइन",
         "about_heading": "🏢 कंपनी का परिचय एवं इंजीनियरिंग विशेषज्ञता",
-        "about_body": """**इंजी. सत्यम पीयूष — एक ई.पी.सी. कंपनी** भारत भर में नगरपालिकाओं, स्मार्ट शहरों और ग्रामीण निकायों के लिए पूर्ण इंजीनियरिंग, खरीद और निर्माण (EPC) समाधान प्रदान करती है।
+        "about_body": """**RMMK नेक्स्टजेन सॉल्यूशंस (RMMK NextGen Solutions)** भारत भर में नगरपालिकाओं, स्मार्ट शहरों और ग्रामीण निकायों के लिए पूर्ण इंजीनियरिंग, खरीद और निर्माण (EPC) समाधान प्रदान करती है।
 
 ##### 🌟 प्रमुख नेतृत्व अनुभव एवं विशेषज्ञता:
 - ✈️ **फ्लाइट टेस्टिंग इंस्ट्रुमेंटेशन** — **हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL India)** में उच्च-सटीक एयरोस्पेस सिस्टम और परीक्षण का अनुभव।
@@ -97,7 +97,7 @@ I18N = {
         "all": "सभी",
         "reg_office": "पंजीकृत कार्यालय",
         "fab_base": "विनिर्माण एवं कार्यशाला इकाई",
-        "phone": "दूरभाष / हेल्पलाइन",
+        "phone": "दूरभाष / सीधी हेल्पलाइन",
         "email": "ईमेल",
         "open_gmaps": "🗺️ गूगल मैप्स में देखें"
     }
@@ -129,7 +129,7 @@ with top_col_ctrls:
 with top_col_brand:
     st.markdown(f"""
     <div style="display:flex; align-items:center; gap:8px; padding-top:6px;">
-        <span style="font-weight:800; font-size:1.02rem; letter-spacing:0.03em; color:{'#ffffff' if is_dark else '#0f172a'};">SP & E.P.C. PORTAL</span>
+        <span style="font-weight:800; font-size:1.02rem; letter-spacing:0.03em; color:{'#ffffff' if is_dark else '#0f172a'};">RMMK NEXTGEN SOLUTIONS</span>
         <span style="font-size:0.8rem; font-weight:700; color:{'#38bdf8' if is_dark else '#c2410c'};">● Live Digital Suite</span>
     </div>
     """, unsafe_allow_html=True)
@@ -913,8 +913,8 @@ PDF_ALL_PAGES_DATA = [
         "image_file": os.path.join(PAGES_DIR, "page_1.png"),
         "content_summary": "Company Branding, Swachh Bharat Abhiyan, HAL & Amazon credentials, Clean Green India.",
         "details": {
-            "Company Name": "Er. SATYAM PIYUSH — An E.P.C. company",
-            "Branding & Logos": "SP Official Logo, Swachh Bharat Abhiyan, Clean Green INDIA",
+            "Company Name": "RMMK NextGen Solutions",
+            "Branding & Logos": "RMMK Official Logo, Swachh Bharat Abhiyan, Clean Green INDIA",
             "Past Leadership Experience": [
                 "i) Flight Testing Instrumentation in HAL India (Hindustan Aeronautics Limited)",
                 "ii) Advertising Manager in AMAZON India"
@@ -1191,17 +1191,17 @@ PDF_ALL_PAGES_DATA = [
         "image_file": os.path.join(PAGES_DIR, "page_8.png"),
         "content_summary": "World map network, ISO 9001:2015, NSIC, Make in India, Vocal for Local, Registered & Work addresses.",
         "details": {
-            "Company Head": "Er. SATYAM PIYUSH",
+            "Company Head": "RMMK NextGen Solutions",
             "Certifications & Badges": [
                 "BE VOCAL ABOUT LOCAL",
                 "ISO 9001:2015 CERTIFIED COMPANY",
                 "NSIC (National Small Industries Corporation)",
                 "MAKE IN INDIA",
-                "SP Official Logo"
+                "RMMK Official Logo"
             ],
             "Registered Office": "Patel Nagar Jogbani, Araria, Bihar Pin- 854328",
             "Work / Fabrication Base": "C/o Ashok Kumar Pandey, Infront of DIET Forbesganj, Araria Pin- 854318 Bihar",
-            "Direct Telephone": "+91 8539977611",
+            "Direct Telephone": "+91 7004733713",
             "Official Email": "piyushsatyam04@gmail.com"
         }
     }
@@ -1258,7 +1258,7 @@ with st.sidebar:
     
     doc_source = st.radio(
         "Document Source:" if lang == "en" else "दस्तावेज़ स्रोत:",
-        ["SP & E.P.C. Company (Default)", "Upload Custom PDF File"],
+        ["RMMK NextGen Solutions (Default)", "Upload Custom PDF File"],
         index=0
     )
     
@@ -1278,7 +1278,7 @@ with st.sidebar:
     st.markdown("#### 🔖 **Status**")
     st.markdown(f"""
     <div style="background:{'#131b2e' if is_dark else '#ffffff'}; border:1px solid {'#1e293b' if is_dark else '#e8e3da'}; border-radius:8px; padding:12px; font-size:0.8rem; color:{'#94a3b8' if is_dark else '#5c5751'}; line-height:1.6;">
-        <div>• <b>{'Source' if lang == 'en' else 'स्रोत'}:</b> SP & E.P.C. Company</div>
+        <div>• <b>{'Source' if lang == 'en' else 'स्रोत'}:</b> RMMK NextGen Solutions</div>
         <div>• <b>{'Items' if lang == 'en' else 'उत्पाद'}:</b> 38 Equipment Units</div>
         <div>• <b>{'Theme' if lang == 'en' else 'थीम'}:</b> {'🌙 Dark' if is_dark else '☀️ Light'}</div>
         <div>• <b>{'Language' if lang == 'en' else 'सक्रिय भाषा'}:</b> {'English' if lang == 'en' else 'हिन्दी (Hindi)'}</div>
@@ -1365,8 +1365,8 @@ with tab_summary:
             st.markdown(f"""
             <div class="notion-card">
                 <div class="card-label-warm">{t['kpi_phone']}</div>
-                <div class="card-val-warm">+91 8539977611</div>
-                <div class="card-sub-warm">piyushsatyam04@gmail.com</div>
+                <div class="card-val-warm">+91 7004733713</div>
+                <div class="card-sub-warm">Direct Helpline / WhatsApp</div>
             </div>
             """, unsafe_allow_html=True)
 
@@ -1816,7 +1816,7 @@ with tab_qr:
         st.download_button(
             "📥 Download QR Code PNG" if lang == "en" else "📥 क्यूआर कोड डाउनलोड करें (PNG)",
             data=qr_bin,
-            file_name="SP_EPC_Catalog_QR.png",
+            file_name="RMMK_NextGen_Catalog_QR.png",
             mime="image/png",
             use_container_width=True
         )

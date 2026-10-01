@@ -914,7 +914,7 @@ PDF_ALL_PAGES_DATA = [
         "content_summary": "Company Branding, Swachh Bharat Abhiyan, HAL & Amazon credentials, Clean Green India.",
         "details": {
             "Company Name": "RMMK NextGen Solutions",
-            "Branding & Logos": "RMMK Official Logo, Swachh Bharat Abhiyan, Clean Green INDIA",
+            "Branding & Logos": "Swachh Bharat Abhiyan, Clean Green INDIA",
             "Past Leadership Experience": [
                 "i) Flight Testing Instrumentation in HAL India (Hindustan Aeronautics Limited)",
                 "ii) Advertising Manager in AMAZON India"
@@ -1196,8 +1196,7 @@ PDF_ALL_PAGES_DATA = [
                 "BE VOCAL ABOUT LOCAL",
                 "ISO 9001:2015 CERTIFIED COMPANY",
                 "NSIC (National Small Industries Corporation)",
-                "MAKE IN INDIA",
-                "RMMK Official Logo"
+                "MAKE IN INDIA"
             ],
             "Registered Office": "Patel Nagar Jogbani, Araria, Bihar Pin- 854328",
             "Work / Fabrication Base": "C/o Ashok Kumar Pandey, Infront of DIET Forbesganj, Araria Pin- 854318 Bihar",

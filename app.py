@@ -108,14 +108,6 @@ I18N = {
 # ---------------------------------------------------------
 top_col_brand, top_col_ctrls = st.columns([0.55, 0.45])
 
-with top_col_brand:
-    st.markdown(f"""
-    <div style="display:flex; align-items:center; gap:8px; padding-top:6px;">
-        <span style="font-weight:800; font-size:1.02rem; letter-spacing:0.03em; color:{'#ffffff' if is_dark else '#0f172a'};">SP & E.P.C. PORTAL</span>
-        <span style="font-size:0.8rem; font-weight:700; color:{'#38bdf8' if is_dark else '#c2410c'};">● Live Digital Suite</span>
-    </div>
-    """, unsafe_allow_html=True)
-
 with top_col_ctrls:
     c_theme, c_lang = st.columns(2)
     with c_theme:
@@ -133,6 +125,14 @@ with top_col_ctrls:
             help="Toggle portal language between English and हिन्दी"
         )
         lang = "hi" if is_hindi else "en"
+
+with top_col_brand:
+    st.markdown(f"""
+    <div style="display:flex; align-items:center; gap:8px; padding-top:6px;">
+        <span style="font-weight:800; font-size:1.02rem; letter-spacing:0.03em; color:{'#ffffff' if is_dark else '#0f172a'};">SP & E.P.C. PORTAL</span>
+        <span style="font-size:0.8rem; font-weight:700; color:{'#38bdf8' if is_dark else '#c2410c'};">● Live Digital Suite</span>
+    </div>
+    """, unsafe_allow_html=True)
 
 t = I18N[lang]
 

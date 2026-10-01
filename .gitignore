@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Streamlit local credentials
+.streamlit/secrets.toml

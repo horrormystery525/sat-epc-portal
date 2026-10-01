@@ -1796,7 +1796,7 @@ with tab_qr:
 
     c_left, c_right = st.columns([1, 1])
     with c_left:
-        target_link = st.text_input("🌐 Live Link URL:", value="http://localhost:8501")
+        target_link = st.text_input("🌐 Live Link URL:", value="https://satyam-epc.streamlit.app/")
         if not is_dark:
             palette = st.selectbox("🎨 QR Theme:", ["Warm Charcoal (#2d2b29)", "Terracotta Amber (#a75d2a)", "Deep Sage (#4a614e)"])
             p_map = {"Warm Charcoal (#2d2b29)": "#2d2b29", "Terracotta Amber (#a75d2a)": "#a75d2a", "Deep Sage (#4a614e)": "#4a614e"}

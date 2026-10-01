@@ -446,6 +446,130 @@ if not is_dark:
             margin-bottom: 12px;
             box-shadow: 0 2px 5px rgba(15, 23, 42, 0.03);
         }
+
+        /* ========================================================= */
+        /* MOBILE FIRST RESPONSIVE UX (< 768px)                      */
+        /* ========================================================= */
+        @media (max-width: 768px) {
+            .main .block-container {
+                padding: 1rem 0.6rem 2rem 0.6rem !important;
+                max-width: 100% !important;
+            }
+            header[data-testid="stHeader"] {
+                display: none !important;
+            }
+            .editorial-header-box {
+                padding: 14px 16px !important;
+                border-radius: 12px !important;
+                margin-bottom: 12px !important;
+            }
+            .editorial-hero-title {
+                font-size: 1.25rem !important;
+                line-height: 1.25 !important;
+            }
+            .editorial-hero-sub {
+                font-size: 0.8rem !important;
+            }
+
+            /* 2x2 Grid for KPI Metrics Cards */
+            [data-testid="stHorizontalBlock"]:has(.notion-card) {
+                display: grid !important;
+                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                gap: 8px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has(.notion-card) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+            .notion-card {
+                padding: 12px 10px !important;
+                border-radius: 10px !important;
+            }
+            .card-label-warm {
+                font-size: 0.68rem !important;
+                margin-bottom: 2px !important;
+            }
+            .card-val-warm {
+                font-size: 1.15rem !important;
+            }
+            .card-sub-warm {
+                font-size: 0.72rem !important;
+            }
+
+            /* Single Column Stacked Product Cards */
+            [data-testid="stHorizontalBlock"]:has(.context-product-card) {
+                display: flex !important;
+                flex-direction: column !important;
+                gap: 10px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has(.context-product-card) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+            .context-product-card {
+                padding: 14px !important;
+                border-radius: 12px !important;
+                margin-bottom: 10px !important;
+            }
+            .context-product-card [data-testid="stHorizontalBlock"] {
+                display: flex !important;
+                flex-direction: column !important;
+                gap: 8px !important;
+            }
+            .context-product-card img {
+                max-height: 200px !important;
+                object-fit: contain !important;
+                margin: 0 auto !important;
+            }
+
+            /* 2x2 Filter Toolbar Grid on Mobile */
+            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) {
+                display: grid !important;
+                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                gap: 8px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+
+            /* Smooth Touch-Scroll Tab Bar */
+            .stTabs [data-baseweb="tab-list"],
+            [data-testid="stTabs"] [data-baseweb="tab-list"],
+            div[role="tablist"] {
+                padding: 6px !important;
+                gap: 8px !important;
+                overflow-x: auto !important;
+                -webkit-overflow-scrolling: touch !important;
+                scrollbar-width: none !important;
+            }
+            .stTabs [data-baseweb="tab-list"]::-webkit-scrollbar {
+                display: none !important;
+            }
+            [data-testid="stTabs"] button[role="tab"],
+            .stTabs button[role="tab"],
+            button[data-baseweb="tab"] {
+                padding: 8px 14px !important;
+                margin-right: 6px !important;
+                border-radius: 8px !important;
+                font-size: 0.85rem !important;
+            }
+
+            /* Top Switch Control Row */
+            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) {
+                display: flex !important;
+                flex-wrap: wrap !important;
+                align-items: center !important;
+                justify-content: space-between !important;
+                gap: 6px !important;
+                margin-bottom: 6px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) > [data-testid="stColumn"] {
+                width: auto !important;
+                min-width: fit-content !important;
+                flex: 1 1 auto !important;
+            }
+        }
     </style>
     """, unsafe_allow_html=True)
 else:
@@ -744,6 +868,130 @@ else:
             border-radius: 10px;
             padding: 16px;
             margin-bottom: 12px;
+        }
+
+        /* ========================================================= */
+        /* MOBILE FIRST RESPONSIVE UX (< 768px)                      */
+        /* ========================================================= */
+        @media (max-width: 768px) {
+            .main .block-container {
+                padding: 1rem 0.6rem 2rem 0.6rem !important;
+                max-width: 100% !important;
+            }
+            header[data-testid="stHeader"] {
+                display: none !important;
+            }
+            .editorial-header-box {
+                padding: 14px 16px !important;
+                border-radius: 12px !important;
+                margin-bottom: 12px !important;
+            }
+            .editorial-hero-title {
+                font-size: 1.25rem !important;
+                line-height: 1.25 !important;
+            }
+            .editorial-hero-sub {
+                font-size: 0.8rem !important;
+            }
+
+            /* 2x2 Grid for KPI Metrics Cards */
+            [data-testid="stHorizontalBlock"]:has(.notion-card) {
+                display: grid !important;
+                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                gap: 8px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has(.notion-card) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+            .notion-card {
+                padding: 12px 10px !important;
+                border-radius: 10px !important;
+            }
+            .card-label-warm {
+                font-size: 0.68rem !important;
+                margin-bottom: 2px !important;
+            }
+            .card-val-warm {
+                font-size: 1.15rem !important;
+            }
+            .card-sub-warm {
+                font-size: 0.72rem !important;
+            }
+
+            /* Single Column Stacked Product Cards */
+            [data-testid="stHorizontalBlock"]:has(.context-product-card) {
+                display: flex !important;
+                flex-direction: column !important;
+                gap: 10px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has(.context-product-card) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+            .context-product-card {
+                padding: 14px !important;
+                border-radius: 12px !important;
+                margin-bottom: 10px !important;
+            }
+            .context-product-card [data-testid="stHorizontalBlock"] {
+                display: flex !important;
+                flex-direction: column !important;
+                gap: 8px !important;
+            }
+            .context-product-card img {
+                max-height: 200px !important;
+                object-fit: contain !important;
+                margin: 0 auto !important;
+            }
+
+            /* 2x2 Filter Toolbar Grid on Mobile */
+            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) {
+                display: grid !important;
+                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                gap: 8px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) > [data-testid="stColumn"] {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+
+            /* Smooth Touch-Scroll Tab Bar */
+            .stTabs [data-baseweb="tab-list"],
+            [data-testid="stTabs"] [data-baseweb="tab-list"],
+            div[role="tablist"] {
+                padding: 6px !important;
+                gap: 8px !important;
+                overflow-x: auto !important;
+                -webkit-overflow-scrolling: touch !important;
+                scrollbar-width: none !important;
+            }
+            .stTabs [data-baseweb="tab-list"]::-webkit-scrollbar {
+                display: none !important;
+            }
+            [data-testid="stTabs"] button[role="tab"],
+            .stTabs button[role="tab"],
+            button[data-baseweb="tab"] {
+                padding: 8px 14px !important;
+                margin-right: 6px !important;
+                border-radius: 8px !important;
+                font-size: 0.85rem !important;
+            }
+
+            /* Top Switch Control Row */
+            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) {
+                display: flex !important;
+                flex-wrap: wrap !important;
+                align-items: center !important;
+                justify-content: space-between !important;
+                gap: 6px !important;
+                margin-bottom: 6px !important;
+            }
+            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) > [data-testid="stColumn"] {
+                width: auto !important;
+                min-width: fit-content !important;
+                flex: 1 1 auto !important;
+            }
         }
     </style>
     """, unsafe_allow_html=True)

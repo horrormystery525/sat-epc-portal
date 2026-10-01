@@ -29,74 +29,74 @@ I18N = {
         "all_38": "ALL 38 ILLUSTRATED PRODUCTS",
         "title": "Er. SATYAM PIYUSH — An E.P.C. Company",
         "tagline": "Turnkey Engineering, Procurement & Construction | Clean Green India Solutions",
-        "tab_summary": "📖 Profile",
-        "tab_catalog": "🚜 Catalog (38)",
-        "tab_compare": "⚖️ Comparer",
-        "tab_map": "🗺️ Map & Works",
-        "tab_pages": "📑 PDF Pages",
-        "tab_search": "🔍 Search",
-        "tab_qr": "📲 Share & QR",
-        "kpi_leadership": "Leadership",
+        "tab_summary": "📖 Executive Summary & Profile",
+        "tab_catalog": "🚜 Illustrated Catalog (38 Items)",
+        "tab_compare": "⚖️ Side-by-Side Visual Comparer",
+        "tab_map": "🗺️ Logistics & Offices Map",
+        "tab_pages": "📑 Page-by-Page Explorer",
+        "tab_search": "🔍 Search Across Document",
+        "tab_qr": "📲 Share & QR Studio",
+        "kpi_leadership": "Leadership Credentials",
         "kpi_leadership_sub": "HAL & Amazon India",
-        "kpi_catalog": "Catalog Scope",
+        "kpi_catalog": "Total Catalog Scope",
         "kpi_catalog_val": "38 Equipment Units",
         "kpi_catalog_sub": "Vehicles, Bins, Sanitation",
         "kpi_standards": "Accreditations",
         "kpi_standards_sub": "ISO 9001:2015 & NSIC",
-        "kpi_phone": "Helpline",
-        "about_heading": "🏢 Enterprise Profile & Heritage",
+        "kpi_phone": "Direct Helpline",
+        "about_heading": "🏢 Enterprise Profile & Engineering Heritage",
         "about_body": """**Er. SATYAM PIYUSH — An E.P.C. Company** delivers turnkey Engineering, Procurement, and Construction (EPC) solutions for civic and municipal bodies across India.
 
-##### 🌟 Executive Track Record & Experience:
+##### 🌟 Executive Track Record & Industry Experience:
 - ✈️ **Flight Testing Instrumentation** at **Hindustan Aeronautics Limited (HAL India)** — High-precision aerospace systems & instrumentation.
 - 📈 **Advertising Manager** at **AMAZON India** — Large-scale operational execution and vendor coordination.
 - 🏗️ **Turnkey Municipal Manufacturing** — Specializing in hydraulic waste compactors, street sweepers, community composters, and smart sanitation pods.""",
-        "filter_vertical": "Vertical:",
-        "filter_op": "Operation Mode:",
-        "filter_mat": "Material:",
-        "search_placeholder": "Search equipment, specs...",
+        "filter_vertical": "Filter by Vertical:",
+        "filter_op": "Filter by Operation Mode:",
+        "filter_mat": "Filter by Material:",
+        "search_placeholder": "Search equipment, specs or models...",
         "all": "All",
         "reg_office": "Registered Office",
-        "fab_base": "Fabrication Base",
+        "fab_base": "Fabrication & Workshop Base",
         "phone": "Telephone",
         "email": "Email",
         "open_gmaps": "🗺️ Open in Google Maps"
     },
     "hi": {
         "portal_badge": "● लाइव डिजिटल पोर्टल",
-        "zero_dl": "बिना डाउनलोड सीधा उपयोग",
-        "all_38": "कुल 38 सचित्र उपकरण",
+        "zero_dl": "बिना पीडीएफ डाउनलोड सीधा उपयोग",
+        "all_38": "कुल 38 सचित्र उपकरण एवं मशीनें",
         "title": "इंजी. सत्यम पीयूष — एक ई.पी.सी. कंपनी",
-        "tagline": "टर्नकी इंजीनियरिंग, खरीद और निर्माण (EPC) | स्वच्छ भारत समाधान",
-        "tab_summary": "📖 परिचय",
-        "tab_catalog": "🚜 कैटलॉग (38)",
-        "tab_compare": "⚖️ तुलना",
-        "tab_map": "🗺️ मानचित्र",
-        "tab_pages": "📑 मूल पृष्ठ",
-        "tab_search": "🔍 खोज",
-        "tab_qr": "📲 शेयर/QR",
-        "kpi_leadership": "नेतृत्व अनुभव",
+        "tagline": "टर्नकी इंजीनियरिंग, खरीद और निर्माण (EPC) | स्वच्छ भारत और हरित भारत समाधान",
+        "tab_summary": "📖 मुख्य कार्यकारी सारांश एवं परिचय",
+        "tab_catalog": "🚜 सचित्र मशीनरी कैटलॉग (38 उत्पाद)",
+        "tab_compare": "⚖️ तुलनात्मक विश्लेषण (Side-by-Side)",
+        "tab_map": "🗺️ विनिर्माण एवं कार्यालय मानचित्र",
+        "tab_pages": "📑 पृष्ठ-वार मूल दस्तावेज़",
+        "tab_search": "🔍 दस्तावेज़ में त्वरित खोज",
+        "tab_qr": "📲 लाइव लिंक एवं क्यूआर कोड",
+        "kpi_leadership": "नेतृत्व का पूर्व अनुभव",
         "kpi_leadership_sub": "HAL एवं Amazon India",
-        "kpi_catalog": "उपकरण संख्या",
+        "kpi_catalog": "उपकरणों की कुल संख्या",
         "kpi_catalog_val": "38 उत्पाद इकाइयां",
-        "kpi_catalog_sub": "वाहन, डस्टबिन, स्वच्छता",
-        "kpi_standards": "प्रमाणन",
+        "kpi_catalog_sub": "वाहन, डस्टबिन, स्वच्छता संयंत्र",
+        "kpi_standards": "प्रमाणन एवं मानक",
         "kpi_standards_sub": "ISO 9001:2015 एवं NSIC",
-        "kpi_phone": "हेल्पलाइन",
-        "about_heading": "🏢 कंपनी परिचय एवं विशेषज्ञता",
+        "kpi_phone": "सीधी हेल्पलाइन",
+        "about_heading": "🏢 कंपनी का परिचय एवं इंजीनियरिंग विशेषज्ञता",
         "about_body": """**इंजी. सत्यम पीयूष — एक ई.पी.सी. कंपनी** भारत भर में नगरपालिकाओं, स्मार्ट शहरों और ग्रामीण निकायों के लिए पूर्ण इंजीनियरिंग, खरीद और निर्माण (EPC) समाधान प्रदान करती है।
 
-##### 🌟 प्रमुख नेतृत्व अनुभव:
-- ✈️ **फ्लाइट टेस्टिंग इंस्ट्रुमेंटेशन** — **HAL India (हिंदुस्तान एयरोनॉटिक्स)** में एयरोस्पेस सिस्टम परीक्षण।
-- 📈 **एडवरटाइजिंग मैनेजर** — **AMAZON India (अमेज़न इंडिया)** में परिचालन प्रबंधन।
+##### 🌟 प्रमुख नेतृत्व अनुभव एवं विशेषज्ञता:
+- ✈️ **फ्लाइट टेस्टिंग इंस्ट्रुमेंटेशन** — **हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL India)** में उच्च-सटीक एयरोस्पेस सिस्टम और परीक्षण का अनुभव।
+- 📈 **एडवरटाइजिंग मैनेजर** — **अमेज़न इंडिया (AMAZON India)** में बड़े पैमाने पर संचालन और डिजिटल प्रबंधन का अनुभव।
 - 🏗️ **नगरपालिका वाहन विनिर्माण** — हाइड्रोलिक रिफ्यूज कॉम्पेक्टर, रोड स्वीपर, ठोस कचरा प्रबंधन डस्टबिन और मोबाइल बायो-शौचालय का निर्माण।""",
-        "filter_vertical": "श्रेणी:",
-        "filter_op": "संचालन मोड:",
-        "filter_mat": "सामग्री:",
-        "search_placeholder": "मशीन या क्षमता खोजें...",
+        "filter_vertical": "श्रेणी के अनुसार चुनें:",
+        "filter_op": "संचालन प्रणाली (Operation Mode):",
+        "filter_mat": "निर्माण सामग्री (Material):",
+        "search_placeholder": "मशीन का नाम, क्षमता या सामग्री खोजें...",
         "all": "सभी",
         "reg_office": "पंजीकृत कार्यालय",
-        "fab_base": "विनिर्माण इकाई",
+        "fab_base": "विनिर्माण एवं कार्यशाला इकाई",
         "phone": "दूरभाष / हेल्पलाइन",
         "email": "ईमेल",
         "open_gmaps": "🗺️ गूगल मैप्स में देखें"
@@ -106,32 +106,33 @@ I18N = {
 # ---------------------------------------------------------
 # Top Navigation Bar with 2 Switches on Top Right Corner
 # ---------------------------------------------------------
-top_col_brand, top_col_theme, top_col_lang = st.columns([0.54, 0.23, 0.23])
-
-with top_col_theme:
-    is_dark = st.toggle(
-        "🌙 Dark Mode",
-        value=st.session_state.get("dark_mode", False),
-        key="dark_mode",
-        help="Toggle between Warm Light and Obsidian Dark theme"
-    )
-
-with top_col_lang:
-    is_hindi = st.toggle(
-        "🇮🇳 हिन्दी (Hindi)",
-        value=st.session_state.get("is_hindi", False),
-        key="is_hindi",
-        help="Toggle portal language between English and हिन्दी"
-    )
-    lang = "hi" if is_hindi else "en"
+top_col_brand, top_col_ctrls = st.columns([0.55, 0.45])
 
 with top_col_brand:
     st.markdown(f"""
     <div style="display:flex; align-items:center; gap:8px; padding-top:6px;">
-        <span style="font-weight:800; font-size:0.92rem; letter-spacing:0.04em; color:{'#ffffff' if is_dark else '#0f172a'};">SP & E.P.C. PORTAL</span>
-        <span style="font-size:0.78rem; font-weight:700; color:{'#38bdf8' if is_dark else '#c2410c'};">● Live Digital Suite</span>
+        <span style="font-weight:800; font-size:1.02rem; letter-spacing:0.03em; color:{'#ffffff' if is_dark else '#0f172a'};">SP & E.P.C. PORTAL</span>
+        <span style="font-size:0.8rem; font-weight:700; color:{'#38bdf8' if is_dark else '#c2410c'};">● Live Digital Suite</span>
     </div>
     """, unsafe_allow_html=True)
+
+with top_col_ctrls:
+    c_theme, c_lang = st.columns(2)
+    with c_theme:
+        is_dark = st.toggle(
+            "🌙 Dark",
+            value=st.session_state.get("dark_mode", False),
+            key="dark_mode",
+            help="Toggle between Warm Light and Obsidian Dark theme"
+        )
+    with c_lang:
+        is_hindi = st.toggle(
+            "🇮🇳 हिन्दी",
+            value=st.session_state.get("is_hindi", False),
+            key="is_hindi",
+            help="Toggle portal language between English and हिन्दी"
+        )
+        lang = "hi" if is_hindi else "en"
 
 t = I18N[lang]
 
@@ -452,122 +453,38 @@ if not is_dark:
         /* ========================================================= */
         @media (max-width: 768px) {
             .main .block-container {
-                padding: 1rem 0.6rem 2rem 0.6rem !important;
+                padding: 1.2rem 0.8rem 2.5rem 0.8rem !important;
                 max-width: 100% !important;
             }
-            header[data-testid="stHeader"] {
-                display: none !important;
-            }
             .editorial-header-box {
-                padding: 14px 16px !important;
+                padding: 16px 16px !important;
                 border-radius: 12px !important;
-                margin-bottom: 12px !important;
+                margin-bottom: 14px !important;
             }
             .editorial-hero-title {
-                font-size: 1.25rem !important;
+                font-size: 1.35rem !important;
                 line-height: 1.25 !important;
             }
             .editorial-hero-sub {
-                font-size: 0.8rem !important;
-            }
-
-            /* 2x2 Grid for KPI Metrics Cards */
-            [data-testid="stHorizontalBlock"]:has(.notion-card) {
-                display: grid !important;
-                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-                gap: 8px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has(.notion-card) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
+                font-size: 0.88rem !important;
             }
             .notion-card {
-                padding: 12px 10px !important;
-                border-radius: 10px !important;
-            }
-            .card-label-warm {
-                font-size: 0.68rem !important;
-                margin-bottom: 2px !important;
-            }
-            .card-val-warm {
-                font-size: 1.15rem !important;
-            }
-            .card-sub-warm {
-                font-size: 0.72rem !important;
-            }
-
-            /* Single Column Stacked Product Cards */
-            [data-testid="stHorizontalBlock"]:has(.context-product-card) {
-                display: flex !important;
-                flex-direction: column !important;
-                gap: 10px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has(.context-product-card) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
-            }
-            .context-product-card {
                 padding: 14px !important;
-                border-radius: 12px !important;
                 margin-bottom: 10px !important;
             }
-            .context-product-card [data-testid="stHorizontalBlock"] {
-                display: flex !important;
-                flex-direction: column !important;
-                gap: 8px !important;
+            .context-product-card {
+                padding: 16px !important;
+                margin-bottom: 14px !important;
             }
             .context-product-card img {
-                max-height: 200px !important;
+                max-height: 220px !important;
                 object-fit: contain !important;
-                margin: 0 auto !important;
-            }
-
-            /* 2x2 Filter Toolbar Grid on Mobile */
-            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) {
-                display: grid !important;
-                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-                gap: 8px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
-            }
-
-            /* Smooth Touch-Scroll Tab Bar */
-            .stTabs [data-baseweb="tab-list"],
-            [data-testid="stTabs"] [data-baseweb="tab-list"],
-            div[role="tablist"] {
-                padding: 6px !important;
-                gap: 8px !important;
-                overflow-x: auto !important;
-                -webkit-overflow-scrolling: touch !important;
-                scrollbar-width: none !important;
-            }
-            .stTabs [data-baseweb="tab-list"]::-webkit-scrollbar {
-                display: none !important;
             }
             [data-testid="stTabs"] button[role="tab"],
             .stTabs button[role="tab"],
             button[data-baseweb="tab"] {
-                padding: 8px 14px !important;
-                margin-right: 6px !important;
-                border-radius: 8px !important;
-                font-size: 0.85rem !important;
-            }
-
-            /* Top Switch Control Row */
-            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) {
-                display: flex !important;
-                flex-wrap: wrap !important;
-                align-items: center !important;
-                justify-content: space-between !important;
-                gap: 6px !important;
-                margin-bottom: 6px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) > [data-testid="stColumn"] {
-                width: auto !important;
-                min-width: fit-content !important;
-                flex: 1 1 auto !important;
+                padding: 10px 16px !important;
+                font-size: 0.9rem !important;
             }
         }
     </style>
@@ -669,6 +586,7 @@ else:
             display: flex !important;
             flex-wrap: nowrap !important;
             overflow-x: auto !important;
+            -webkit-overflow-scrolling: touch !important;
             box-shadow: inset 0 1px 3px rgba(0,0,0,0.3) !important;
         }
         /* Hide Default Tab Line Highlight */
@@ -691,6 +609,7 @@ else:
             box-shadow: 0 1px 3px rgba(0,0,0,0.2) !important;
             opacity: 1 !important;
             transition: all 0.15s ease-in-out !important;
+            min-height: 44px !important;
         }
         /* Unselected Tab Text */
         [data-testid="stTabs"] button[role="tab"] *,
@@ -875,122 +794,38 @@ else:
         /* ========================================================= */
         @media (max-width: 768px) {
             .main .block-container {
-                padding: 1rem 0.6rem 2rem 0.6rem !important;
+                padding: 1.2rem 0.8rem 2.5rem 0.8rem !important;
                 max-width: 100% !important;
             }
-            header[data-testid="stHeader"] {
-                display: none !important;
-            }
             .editorial-header-box {
-                padding: 14px 16px !important;
+                padding: 16px 16px !important;
                 border-radius: 12px !important;
-                margin-bottom: 12px !important;
+                margin-bottom: 14px !important;
             }
             .editorial-hero-title {
-                font-size: 1.25rem !important;
+                font-size: 1.35rem !important;
                 line-height: 1.25 !important;
             }
             .editorial-hero-sub {
-                font-size: 0.8rem !important;
-            }
-
-            /* 2x2 Grid for KPI Metrics Cards */
-            [data-testid="stHorizontalBlock"]:has(.notion-card) {
-                display: grid !important;
-                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-                gap: 8px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has(.notion-card) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
+                font-size: 0.88rem !important;
             }
             .notion-card {
-                padding: 12px 10px !important;
-                border-radius: 10px !important;
-            }
-            .card-label-warm {
-                font-size: 0.68rem !important;
-                margin-bottom: 2px !important;
-            }
-            .card-val-warm {
-                font-size: 1.15rem !important;
-            }
-            .card-sub-warm {
-                font-size: 0.72rem !important;
-            }
-
-            /* Single Column Stacked Product Cards */
-            [data-testid="stHorizontalBlock"]:has(.context-product-card) {
-                display: flex !important;
-                flex-direction: column !important;
-                gap: 10px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has(.context-product-card) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
-            }
-            .context-product-card {
                 padding: 14px !important;
-                border-radius: 12px !important;
                 margin-bottom: 10px !important;
             }
-            .context-product-card [data-testid="stHorizontalBlock"] {
-                display: flex !important;
-                flex-direction: column !important;
-                gap: 8px !important;
+            .context-product-card {
+                padding: 16px !important;
+                margin-bottom: 14px !important;
             }
             .context-product-card img {
-                max-height: 200px !important;
+                max-height: 220px !important;
                 object-fit: contain !important;
-                margin: 0 auto !important;
-            }
-
-            /* 2x2 Filter Toolbar Grid on Mobile */
-            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) {
-                display: grid !important;
-                grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-                gap: 8px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has([data-testid="stSelectbox"]) > [data-testid="stColumn"] {
-                width: 100% !important;
-                min-width: 0 !important;
-            }
-
-            /* Smooth Touch-Scroll Tab Bar */
-            .stTabs [data-baseweb="tab-list"],
-            [data-testid="stTabs"] [data-baseweb="tab-list"],
-            div[role="tablist"] {
-                padding: 6px !important;
-                gap: 8px !important;
-                overflow-x: auto !important;
-                -webkit-overflow-scrolling: touch !important;
-                scrollbar-width: none !important;
-            }
-            .stTabs [data-baseweb="tab-list"]::-webkit-scrollbar {
-                display: none !important;
             }
             [data-testid="stTabs"] button[role="tab"],
             .stTabs button[role="tab"],
             button[data-baseweb="tab"] {
-                padding: 8px 14px !important;
-                margin-right: 6px !important;
-                border-radius: 8px !important;
-                font-size: 0.85rem !important;
-            }
-
-            /* Top Switch Control Row */
-            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) {
-                display: flex !important;
-                flex-wrap: wrap !important;
-                align-items: center !important;
-                justify-content: space-between !important;
-                gap: 6px !important;
-                margin-bottom: 6px !important;
-            }
-            [data-testid="stHorizontalBlock"]:has([data-testid="stToggle"]) > [data-testid="stColumn"] {
-                width: auto !important;
-                min-width: fit-content !important;
-                flex: 1 1 auto !important;
+                padding: 10px 16px !important;
+                font-size: 0.9rem !important;
             }
         }
     </style>
